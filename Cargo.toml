@@ -10,6 +10,7 @@ repository = "https://github.com/artemtsitronov/fenth"
 readme = "README.md"
 keywords = ["theme", "color", "palette", "catppuccin", "nord"]
 categories = ["graphics"]
+exclude = ["assets/"]
 
 [dependencies]
 

@@ -1,3 +1,5 @@
+![themes](assets/themes.gif)
+
 # fenth
 
 Small dependency-free collection of color themes. Every theme has the same set of semantic roles.

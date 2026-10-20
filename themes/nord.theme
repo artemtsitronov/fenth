@@ -1,0 +1,46 @@
+name = nord
+variant = dark
+
+background = #2e3440
+surface = #3b4252
+overlay = #434c5e
+selection = #434c5e
+
+border = #4c566a
+
+foreground = #d8dee9
+foreground.muted = #7b88a1
+link = #88c0d0
+
+accent.primary = #88c0d0
+accent.secondary = #81a1c1
+accent.tertiary = #8fbcbb
+
+red = #bf616a
+orange = #d08770
+yellow = #ebcb8b
+green = #a3be8c
+cyan = #8fbcbb
+blue = #5e81ac
+purple = #b48ead
+pink = #b48ead
+
+info = #81a1c1
+
+syntax.comment = #616e88
+syntax.keyword = #81a1c1
+syntax.number = purple
+syntax.function = #88c0d0
+syntax.type = #8fbcbb
+syntax.constant = purple
+syntax.operator = #81a1c1
+syntax.property = foreground
+syntax.tag = #81a1c1
+syntax.attribute = #8fbcbb
+syntax.escape = #ebcb8b
+syntax.macro = #5e81ac
+
+terminal.black = #3b4252
+terminal.white = #e5e9f0
+terminal.bright.black = #4c566a
+terminal.bright.white = #eceff4

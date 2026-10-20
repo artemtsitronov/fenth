@@ -1,0 +1,38 @@
+name = one-dark
+variant = dark
+
+background = #282c34
+background.alt = #21252b
+surface = #2c313a
+overlay = #353b45
+selection = #3e4451
+
+border = #4b5263
+
+foreground = #abb2bf
+foreground.muted = #828997
+
+accent.primary = #61afef
+accent.secondary = #c678dd
+accent.tertiary = #56b6c2
+
+red = #e06c75
+orange = #d19a66
+yellow = #e5c07b
+green = #98c379
+cyan = #56b6c2
+blue = #61afef
+purple = #c678dd
+pink = #c678dd
+
+info = #61afef
+
+cursor = #528bff
+
+syntax.comment = #5c6370
+syntax.variable = red
+syntax.property = red
+
+terminal.white = #abb2bf
+terminal.bright.black = #5c6370
+terminal.bright.white = #c8ccd4

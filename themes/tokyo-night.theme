@@ -1,0 +1,34 @@
+name = tokyo-night
+variant = dark
+
+background = #1a1b26
+surface = #16161e
+overlay = #292e42
+selection = #283457
+
+border = #3b4261
+
+foreground = #c0caf5
+foreground.muted = #a9b1d6
+
+accent.primary = #7aa2f7
+accent.secondary = #bb9af7
+accent.tertiary = #7dcfff
+
+red = #f7768e
+orange = #ff9e64
+yellow = #e0af68
+green = #9ece6a
+cyan = #7dcfff
+blue = #7aa2f7
+purple = #bb9af7
+pink = #ff007c
+
+syntax.comment = #565f89
+syntax.type = #2ac3de
+syntax.operator = #89ddff
+syntax.property = #73daca
+syntax.macro = cyan
+
+terminal.magenta = #bb9af7
+terminal.bright.black = #414868

@@ -1,0 +1,17 @@
+[package]
+name = "fenth"
+version = "0.1.0"
+edition = "2024"
+rust-version = "1.85"
+authors = ["Artem Tsitronov"]
+license = "MIT"
+description = "Small dependency-free collection of color themes with semantic roles"
+repository = "https://github.com/artemtsitronov/fenth"
+readme = "README.md"
+keywords = ["theme", "color", "palette", "catppuccin", "nord"]
+categories = ["graphics"]
+
+[dependencies]
+
+[dev-dependencies]
+ratatui = "0.29.0"

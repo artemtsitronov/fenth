@@ -1,0 +1,45 @@
+name = solarized-light
+variant = light
+
+background = #fdf6e3
+surface = #eee8d5
+overlay = #d3d3c5
+selection = #d2e1e0
+
+border = #93a1a1
+
+foreground = #657b83
+foreground.muted = #93a1a1
+
+accent.primary = #268bd2
+accent.secondary = #6c71c4
+accent.tertiary = #2aa198
+
+red = #dc322f
+orange = #cb4b16
+yellow = #b58900
+green = #859900
+cyan = #2aa198
+blue = #268bd2
+purple = #6c71c4
+pink = #d33682
+
+info = #268bd2
+
+cursor = #586e75
+
+syntax.keyword = green
+syntax.string = cyan
+syntax.number = cyan
+syntax.variable = blue
+syntax.constant = cyan
+syntax.operator = green
+syntax.tag = blue
+syntax.attribute = yellow
+syntax.escape = red
+syntax.macro = orange
+
+terminal.black = #073642
+terminal.white = #eee8d5
+terminal.bright.black = #586e75
+terminal.bright.white = #fdf6e3

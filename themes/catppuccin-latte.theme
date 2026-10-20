@@ -1,0 +1,37 @@
+name = catppuccin-latte
+variant = light
+
+background = #eff1f5
+background.alt = #e6e9ef
+surface = #ccd0da
+overlay = #bcc0cc
+selection = #acb0be
+
+border = #9ca0b0
+
+foreground = #4c4f69
+foreground.muted = #6c6f85
+
+accent.primary = #8839ef
+accent.secondary = #7287fd
+
+red = #d20f39
+orange = #fe640b
+yellow = #df8e1d
+green = #40a02b
+cyan = #179299
+blue = #1e66f5
+purple = #8839ef
+pink = #ea76cb
+
+info = #04a5e5
+
+cursor = #dc8a78
+
+syntax.comment = #7c7f93
+syntax.property = accent.secondary
+
+terminal.black = #5c5f77
+terminal.white = #acb0be
+terminal.bright.black = #6c6f85
+terminal.bright.white = #bcc0cc

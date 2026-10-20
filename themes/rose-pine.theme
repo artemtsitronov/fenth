@@ -1,0 +1,44 @@
+name = rose-pine
+variant = dark
+
+background = #191724
+surface = #1f1d2e
+overlay = #26233a
+selection = #403d52
+
+border = #524f67
+
+foreground = #e0def4
+foreground.muted = #908caa
+
+accent.primary = #c4a7e7
+accent.secondary = #ebbcba
+accent.tertiary = #9ccfd8
+
+red = #eb6f92
+orange = #ea9a97
+yellow = #f6c177
+green = #31748f
+cyan = #9ccfd8
+blue = #31748f
+purple = #c4a7e7
+pink = #ebbcba
+
+success = #9ccfd8
+info = #c4a7e7
+
+syntax.comment = #6e6a86
+syntax.keyword = blue
+syntax.string = yellow
+syntax.function = pink
+syntax.type = cyan
+syntax.constant = purple
+syntax.operator = foreground.muted
+syntax.property = cyan
+syntax.tag = blue
+syntax.attribute = purple
+syntax.escape = blue
+syntax.macro = orange
+
+terminal.magenta = #c4a7e7
+terminal.bright.black = #6e6a86

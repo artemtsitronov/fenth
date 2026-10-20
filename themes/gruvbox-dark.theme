@@ -1,0 +1,43 @@
+name = gruvbox-dark
+variant = dark
+
+background = #282828
+background.alt = #1d2021
+surface = #3c3836
+overlay = #504945
+selection = #665c54
+
+border = #7c6f64
+
+foreground = #ebdbb2
+foreground.muted = #a89984
+
+accent.primary = #fe8019
+accent.secondary = #fabd2f
+
+red = #fb4934
+orange = #fe8019
+yellow = #fabd2f
+green = #b8bb26
+cyan = #8ec07c
+blue = #83a598
+purple = #d3869b
+pink = #b16286
+
+info = #83a598
+
+syntax.comment = #928374
+syntax.keyword = red
+syntax.number = purple
+syntax.function = green
+syntax.variable = blue
+syntax.constant = purple
+syntax.operator = foreground
+syntax.tag = cyan
+syntax.attribute = yellow
+syntax.escape = orange
+syntax.macro = cyan
+
+terminal.black = #3c3836
+terminal.magenta = #d3869b
+terminal.bright.black = #928374

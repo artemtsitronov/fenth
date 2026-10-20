@@ -1,0 +1,100 @@
+background
+background.alt = mix(background, surface, 50%)
+surface
+surface.alt = mix(surface, overlay, 50%)
+overlay
+highlight = mix(background, foreground, 7%)
+active = mix(background, foreground, 13%)
+selection
+selection.inactive = mix(selection, background, 50%)
+scrollbar = mix(background, foreground.muted, 35%)
+scrollbar.hover = mix(background, foreground.muted, 60%)
+
+border
+border.muted = mix(background, border, 50%)
+border.focus = accent.primary
+divider = mix(background, border, 65%)
+
+foreground
+foreground.muted
+foreground.subtle = mix(foreground.muted, background, 35%)
+foreground.disabled = mix(foreground.muted, background, 55%)
+foreground.inverse = background
+placeholder = mix(foreground.muted, background, 25%)
+link = blue
+link.hover = mix(link, foreground, 25%)
+
+accent.primary
+accent.primary.hover = mix(accent.primary, foreground, 12%)
+accent.primary.active = mix(accent.primary, background, 20%)
+accent.secondary
+accent.secondary.hover = mix(accent.secondary, foreground, 12%)
+accent.tertiary = blue
+
+red
+orange
+yellow
+green
+cyan
+blue
+purple
+pink
+
+error = red
+error.background = mix(background, error, 15%)
+warning = yellow
+warning.background = mix(background, warning, 15%)
+success = green
+success.background = mix(background, success, 15%)
+info = cyan
+info.background = mix(background, info, 15%)
+
+cursor = foreground
+line.number = mix(foreground.muted, background, 35%)
+line.number.active = foreground
+line.highlight = mix(background, foreground, 5%)
+search.match = mix(background, yellow, 35%)
+search.match.active = mix(background, orange, 50%)
+bracket.match = mix(background, accent.primary, 30%)
+indent.guide = mix(background, foreground.muted, 18%)
+whitespace = mix(background, foreground.muted, 30%)
+
+diff.added = green
+diff.removed = red
+diff.modified = blue
+diff.added.background = mix(background, diff.added, 15%)
+diff.removed.background = mix(background, diff.removed, 15%)
+diff.modified.background = mix(background, diff.modified, 15%)
+
+syntax.comment = foreground.muted
+syntax.keyword = purple
+syntax.string = green
+syntax.number = orange
+syntax.function = blue
+syntax.type = yellow
+syntax.variable = foreground
+syntax.constant = orange
+syntax.operator = cyan
+syntax.punctuation = foreground.muted
+syntax.property = blue
+syntax.tag = red
+syntax.attribute = orange
+syntax.escape = cyan
+syntax.macro = pink
+
+terminal.black = overlay
+terminal.red = red
+terminal.green = green
+terminal.yellow = yellow
+terminal.blue = blue
+terminal.magenta = pink
+terminal.cyan = cyan
+terminal.white = foreground.muted
+terminal.bright.black = selection
+terminal.bright.red = mix(terminal.red, foreground, 15%)
+terminal.bright.green = mix(terminal.green, foreground, 15%)
+terminal.bright.yellow = mix(terminal.yellow, foreground, 15%)
+terminal.bright.blue = mix(terminal.blue, foreground, 15%)
+terminal.bright.magenta = mix(terminal.magenta, foreground, 15%)
+terminal.bright.cyan = mix(terminal.cyan, foreground, 15%)
+terminal.bright.white = foreground

@@ -1,0 +1,49 @@
+name = monokai
+variant = dark
+
+background = #272822
+background.alt = #1e1f1c
+surface = #3e3d32
+overlay = #49483e
+selection = #585649
+
+border = #75715e
+
+foreground = #f8f8f2
+foreground.muted = #bdbbaf
+
+accent.primary = #f92672
+accent.secondary = #66d9ef
+accent.tertiary = #a6e22e
+
+red = #f92672
+orange = #fd971f
+yellow = #e6db74
+green = #a6e22e
+cyan = #66d9ef
+blue = #66d9ef
+purple = #ae81ff
+pink = #f92672
+
+warning = #fd971f
+
+cursor = #f8f8f0
+
+syntax.comment = #75715e
+syntax.keyword = red
+syntax.string = yellow
+syntax.number = purple
+syntax.function = green
+syntax.type = cyan
+syntax.constant = purple
+syntax.operator = red
+syntax.punctuation = foreground
+syntax.property = foreground
+syntax.attribute = green
+syntax.escape = purple
+syntax.macro = cyan
+
+terminal.magenta = #ae81ff
+terminal.white = #cfcfc2
+terminal.bright.black = #75715e
+terminal.bright.white = #f9f8f5

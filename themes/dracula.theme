@@ -1,0 +1,45 @@
+name = dracula
+variant = dark
+
+background = #282a36
+background.alt = #191a21
+surface = #21222c
+overlay = #343746
+selection = #44475a
+
+border = #44475a
+
+foreground = #f8f8f2
+foreground.muted = #6272a4
+
+accent.primary = #bd93f9
+accent.secondary = #ff79c6
+accent.tertiary = #8be9fd
+
+red = #ff5555
+orange = #ffb86c
+yellow = #f1fa8c
+green = #50fa7b
+cyan = #8be9fd
+blue = #bd93f9
+purple = #bd93f9
+pink = #ff79c6
+
+warning = #ffb86c
+
+syntax.keyword = pink
+syntax.string = yellow
+syntax.number = purple
+syntax.function = green
+syntax.type = cyan
+syntax.constant = purple
+syntax.operator = pink
+syntax.property = cyan
+syntax.tag = pink
+syntax.attribute = green
+syntax.macro = cyan
+
+terminal.black = #21222c
+terminal.white = #f8f8f2
+terminal.bright.black = #6272a4
+terminal.bright.white = #ffffff

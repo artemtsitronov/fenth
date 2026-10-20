@@ -1,0 +1,34 @@
+name = catppuccin-mocha
+variant = dark
+
+background = #1e1e2e
+background.alt = #181825
+surface = #313244
+overlay = #45475a
+selection = #585b70
+
+border = #6c7086
+
+foreground = #cdd6f4
+foreground.muted = #a6adc8
+
+accent.primary = #cba6f7
+accent.secondary = #b4befe
+
+red = #f38ba8
+orange = #fab387
+yellow = #f9e2af
+green = #a6e3a1
+cyan = #94e2d5
+blue = #89b4fa
+purple = #cba6f7
+pink = #f5c2e7
+
+info = #89dceb
+
+cursor = #f5e0dc
+
+syntax.comment = #9399b2
+syntax.property = accent.secondary
+
+terminal.white = #bac2de

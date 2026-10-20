@@ -8,6 +8,21 @@ Themes and roles are plain data files. Adding one never touches the source code.
 
 [**WARNING**]: Fenth is largely AI-assisted, and though I hardly doubt this will matter for your project, it's still worth knowing about.
 
+## Installation
+
+```bash
+cargo add fenth
+```
+
+Or add it to `Cargo.toml`:
+
+```toml
+[dependencies]
+fenth = "0.1"
+```
+
+## Example
+
 ```rust
 let theme = fenth::get("catppuccin-mocha").unwrap();
 
